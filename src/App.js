@@ -28,11 +28,6 @@ export default class App extends React.Component {
             ratio={`3:2`}
           />
         </div>
-
-        <div>
-          Made by <a href="https://about.phamvanlam.com/">Lam Pham</a>.
-          Visit me at <a href="https://completejavascript.com/">completejavascript.com</a>.
-        </div>
       </div>
     );
   }
